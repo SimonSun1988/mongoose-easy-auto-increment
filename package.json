@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-easy-auto-increment",
+  "version": "1.0.0",
+  "description": "mongoose field auto increment more easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonSun1988/mongoose-easy-auto-increment.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "autoIncrement",
+    "increment"
+  ],
+  "author": "Simon Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonSun1988/mongoose-easy-auto-increment/issues"
+  },
+  "homepage": "https://github.com/SimonSun1988/mongoose-easy-auto-increment#readme"
+}
