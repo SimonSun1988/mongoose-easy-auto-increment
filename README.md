@@ -26,3 +26,10 @@ module.exports = {
     User
 };
 ```
+
+## Schema Plugin Options
+
+| name | description |
+|---|---|
+| field | The name of the field to increment. default is `_id` |
+| collection | Default collection name is `SerialNumberCounters`. You can change it. |
