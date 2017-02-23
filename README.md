@@ -31,5 +31,5 @@ module.exports = {
 
 | name | description |
 |---|---|
-| field | The name of the field to increment. default is `_id` |
+| field | The name of the field to increment. default is `sn` |
 | collection | Default collection name is `SerialNumberCounters`. You can change it. |

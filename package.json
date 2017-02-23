@@ -4,7 +4,7 @@
   "description": "mongoose field auto increment more easier",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm install && ./node_modules/mocha/bin/mocha test/test.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/SimonSun1988/mongoose-easy-auto-increment/issues"
   },
-  "homepage": "https://github.com/SimonSun1988/mongoose-easy-auto-increment#readme"
+  "homepage": "https://github.com/SimonSun1988/mongoose-easy-auto-increment#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "bluebird": "^3.4.7",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "mongoose": "^4.8.4"
+  }
 }
