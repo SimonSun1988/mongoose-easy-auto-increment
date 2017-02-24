@@ -1,6 +1,6 @@
 {
   "name": "mongoose-easy-auto-increment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mongoose field auto increment more easier",
   "main": "index.js",
   "scripts": {
